@@ -3,8 +3,8 @@
 
 <!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=bugattie" alt="Muhammad Mohsin" /> </p> -->
 
-- 🔭 I’m currently working as a Flutter Developer.
-- 🌱 I’m currently learning **JAMstack and AWS**
+- 🔭 I’m currently working as a MERN Stack Developer.
+- 🌱 I’m currently learning **AWS**
 - 👨‍💻 All of my projects are available at [https://github.com/bugattie](https://github.com/bugattie)
 - 💬 Ask me about **Typescript, React, Nodejs, & Flutter**
 - ⚡ Fun fact: I love to read and help others
