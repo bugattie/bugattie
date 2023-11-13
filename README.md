@@ -4,9 +4,9 @@
 <!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=bugattie" alt="Muhammad Mohsin" /> </p> -->
 
 - 🔭 I’m currently working as Sr Software Engineer.
-- 🌱 I’m currently learning **Blockchain**
+- 🌱 I’m currently learning **AWS Solution Architect**
 - 👨‍💻 All of my projects are available at [https://github.com/bugattie](https://github.com/bugattie)
-- 💬 Ask me about **Ethereum, Typescript, React, Nodejs, & Flutter**
+- 💬 Ask me about **Typescript, React, Nodejs, & Flutter**
 - ⚡ Fun fact: I love to read and help others
 - 📫 How to reach me **meet.muhammadmohsin@gmail.com**
 
