@@ -32,13 +32,13 @@
 </tr>
 <tr>
     <td align='center' width="150">
-        <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" width="60">
+        <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg">
     </td>
     <td align='center' width="150">
         <img src="https://vegibit.com/wp-content/uploads/2018/05/expressjs.png">
     </td>
     <td align='center' width="150">
-        <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/nestjs_logo_icon_169927.png" height="120">
+        <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/nestjs_logo_icon_169927.png" height="60">
     </td>
     <td align='center' width="150">
         <img src="https://miro.medium.com/max/901/1*GkrYGz_r9W6AVgEloQpJFQ.png">
@@ -50,20 +50,21 @@
 </tr>
 <tr>
     <td align='center'>
-        <img src="https://static-00.iconduck.com/assets.00/nextjs-icon-2048x1234-pqycciiu.png">
+        <img src="https://static-00.iconduck.com/assets.00/nextjs-icon-2048x1234-pqycciiu.png" width="100">
+    </td>
+    <td align='center' width="150">
+        <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" >
+    </td>
+    <td align='center' width="150">
+        <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/postgresql_logo_icon_170836.png" >
     </td>
     <td align='center' width="150">
         <img src="https://infinapps.com/wp-content/uploads/2018/10/mongodb-logo.png" height="120">
     </td>
     <td align='center' width="150">
-        <img src="https://www.jing.fm/clipimg/full/53-537670_python-png-file-python-logo-png.png" width="60" height="60">
-    </td>
-    <td align='center' width="150">
         <img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg">
     </td>
-    <td align='center' width="150">
-        <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" >
-    </td>
+    
 </tr>
 <tr>
     <td align='center' width="150">
