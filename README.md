@@ -31,6 +31,12 @@
     </td>
 </tr>
 <tr>
+<td align='center' width="150">
+        <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
+    </td>
+    <td align='center'>
+        <img src="https://static-00.iconduck.com/assets.00/nextjs-icon-2048x1234-pqycciiu.png" width="100">
+    </td>
     <td align='center' width="150">
         <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg">
     </td>
@@ -40,17 +46,12 @@
     <td align='center' width="150">
         <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/nestjs_logo_icon_169927.png" height="60">
     </td>
-    <td align='center' width="150">
-        <img src="https://miro.medium.com/max/901/1*GkrYGz_r9W6AVgEloQpJFQ.png">
-    </td>
-    <td align='center' width="150">
-        <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
-    </td>
+    
     
 </tr>
 <tr>
-    <td align='center'>
-        <img src="https://static-00.iconduck.com/assets.00/nextjs-icon-2048x1234-pqycciiu.png" width="100">
+    <td align='center' width="150">
+        <img src="https://miro.medium.com/max/901/1*GkrYGz_r9W6AVgEloQpJFQ.png">
     </td>
     <td align='center' width="150">
         <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" >
@@ -68,13 +69,13 @@
 </tr>
 <tr>
     <td align='center' width="150">
-        <img src="https://www.metaltoad.com/sites/default/files/styles/large_personal_photo_870x500_/public/2020-05/aws-logo-blog-header.png?itok=t4o3meiH">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/2560px-Amazon_Web_Services_Logo.svg.png" width="60">
     </td>
     <td align='center' width="150">
-        <img src="https://www.docker.com/sites/default/files/d8/2019-07/horizontal-logo-monochromatic-white.png" >
+        <img src="https://1000logos.net/wp-content/uploads/2020/06/Microsoft-Azure-Logo-2017.png">
     </td>
     <td align='center' width="150">
-        <img src="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/vscode.svg" width="60">
+        <img src="https://png.monster/wp-content/uploads/2020/11/cloud_lockup-669717fc.png" width="60">
     </td>
     <td align='center' width="150">
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">
