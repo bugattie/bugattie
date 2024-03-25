@@ -41,7 +41,7 @@
         <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg">
     </td>
     <td align='center' width="150">
-        <img src="https://vegibit.com/wp-content/uploads/2018/05/expressjs.png">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png">
     </td>
     <td align='center' width="150">
         <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/nestjs_logo_icon_169927.png" height="60">
