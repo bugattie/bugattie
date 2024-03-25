@@ -63,7 +63,7 @@
         <img src="https://infinapps.com/wp-content/uploads/2018/10/mongodb-logo.png" height="120">
     </td>
     <td align='center' width="150">
-        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg">
+        <img src="https://dka575ofm4ao0.cloudfront.net/pages-transactional_logos/retina/205146/logo-light.png">
     </td>
     
 </tr>
