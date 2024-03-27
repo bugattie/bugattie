@@ -86,12 +86,6 @@
 </tr>    
 </table>
 
-<h3 align="left">🤝🏻 &nbsp;Connect with Me</h3>
-<p align="center">
-<a href="https://www.linkedin.com/in/muhammad-mohsin-31655b195/"><img src="https://img.shields.io/badge/-Muhammad%20Mohsin-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:meet.muhammadmohsin@gmail.com"><img src="https://img.shields.io/badge/-meet.muhammadmohsin@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/mohsinmunir_/"><img src="https://img.shields.io/badge/-@mohsinmunir_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-</p>
 
 <p>
 ## Contribution Graph
