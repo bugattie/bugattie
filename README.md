@@ -6,7 +6,7 @@
 - 🔭 I’m currently working as Sr Software Engineer.
 - 🌱 I’m currently learning **AWS Security Specialty**
 - 👨‍💻 All of my projects are available at [https://github.com/bugattie](https://github.com/bugattie)
-- 💬 Ask me about **Typescript, React, Nodejs, & Flutter**
+- 💬 Ask me about **Typescript, React, NextJS Nodejs, & Flutter**
 - ⚡ Fun fact: I love to read and help others
 - 📫 How to reach me **meet.muhammadmohsin@gmail.com**
 
