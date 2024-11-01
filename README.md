@@ -4,9 +4,9 @@
 <!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=bugattie" alt="Muhammad Mohsin" /> </p> -->
 
 - 🏆 AWS Certified Solutions Architect
+- - 🏆 AWS Certified Security Specialty
 - 🏆 Hashicorp Certified Terraform Associate
 - 🔭 I’m currently working as Sr Software Engineer.
-- 🌱 I’m currently learning **AWS Security Specialty**
 - 👨‍💻 All of my projects are available at [https://github.com/bugattie](https://github.com/bugattie)
 - ⚡ Fun fact: I love to read and help others
 - 📫 How to reach me **meet.muhammadmohsin@gmail.com**
