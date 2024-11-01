@@ -12,13 +12,13 @@
 - 📫 How to reach me **meet.muhammadmohsin@gmail.com**
 
 <h2><i>💻 Tech Stack</i></h2>
-
-<div style="display: flex; justify-content: space-between; margin-top: 20px; margin-bottom: 20px;">
+<br />
+<div style="display: flex; justify-content: space-between;">
     <img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" height="250" width="250" />
     <img src="https://images.credly.com/size/340x340/images/53acdae5-d69f-4dda-b650-d02ed7a50dd7/image.png" height="250" width="250" />
     <img src="https://images.credly.com/size/340x340/images/85b9cfc4-257a-4742-878c-4f7ab4a2631b/image.png" height="250" width="250" />
 </div>
-
+<br />
 
 <table width="100">
 <tr>
