@@ -11,7 +11,7 @@
 - ⚡ Fun fact: I love to read and help others
 - 📫 How to reach me **meet.muhammadmohsin@gmail.com**
 
-<h2><i>💻 Tech Stack</i></h2>
+<h2><i>🏆 Certifications</i></h2>
 <br />
 <div style="display: flex; justify-content: center; margin: 0 auto;">
     <img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" height="250" width="250" />
@@ -19,6 +19,8 @@
     <img src="https://images.credly.com/size/340x340/images/85b9cfc4-257a-4742-878c-4f7ab4a2631b/image.png" height="250" width="250" />
 </div>
 <br />
+
+<h2><i>💻 Tech Stack</i></h2>
 
 <table width="100">
 <tr>
