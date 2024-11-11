@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Mohsin</h1>
-<h3 align="center">A passionate Full Stack Developer and an AWS Certified Solutions Architect</h3>
+<h3 align="center">A passionate Full Stack Developer and an AWS Security Architect</h3>
 
 <!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=bugattie" alt="Muhammad Mohsin" /> </p> -->
 
