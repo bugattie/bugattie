@@ -1,12 +1,11 @@
 <h1 align="center">Hi there 👋, I'm Mohsin</h1>
-<h3 align="center">A passionate Full Stack Developer and an AWS Security Architect</h3>
+<h3 align="center">A passionate Cloud Engineer</h3>
 
 <!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=bugattie" alt="Muhammad Mohsin" /> </p> -->
 
-- 🏆 AWS Certified Solutions Architect
-- 🏆 AWS Certified Security Specialty
-- 🏆 Hashicorp Certified Terraform Associate
-- 🔭 I’m currently working as Sr Software Engineer.
+- 🏆 AWS Certified Solutions Architect – Associate
+- 🏆 AWS Certified Security – Specialty
+- 🏆 HashiCorp Certified: Terraform Associate (003)
 - 👨‍💻 All of my projects are available at [https://github.com/bugattie](https://github.com/bugattie)
 - ⚡ Fun fact: I love to read and help others
 - 📫 How to reach me **meet.muhammadmohsin@gmail.com**
