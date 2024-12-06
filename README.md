@@ -3,6 +3,7 @@
 
 <!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=bugattie" alt="Muhammad Mohsin" /> </p> -->
 
+- 🏆 AWS Certified Cloud Practitioner
 - 🏆 AWS Certified Solutions Architect – Associate
 - 🏆 AWS Certified Security – Specialty
 - 🏆 HashiCorp Certified: Terraform Associate (003)
